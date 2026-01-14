@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="C:\Users\soura\Downloads\Midnight Hustle_ Focus & Fire.jpg" width="320" alt="Profile Banner"/>
-</p>
-https://github.com/user-attachments/assets/6a7dd018-b292-47b8-9101-a55c2458cb8e
-
-
 <h1 align="center">🚀 Sourav Verma | Aspiring Software Engineer</h1>
 
 <p align="center">
