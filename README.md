@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://pin.it/3U2rXepXI" width="320" alt="Profile Banner"/>
+  <!-- <img src=" " width="320" alt="Profile Banner"/> -->
+![Midnight Hustle_ Focus   Fire](https://github.com/user-attachments/assets/6410322d-3ee0-4d3f-86e1-a952c07d47fe)
 </p>
 
 <h1 align="center">🚀 Sourav Verma | Aspiring Software Engineer</h1>
