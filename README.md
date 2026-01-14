@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img src=" " width="320" alt="Profile Banner"/> -->
-![Midnight Hustle_ Focus   Fire](https://github.com/user-attachments/assets/6410322d-3ee0-4d3f-86e1-a952c07d47fe)
+  <img src="C:\Users\soura\Downloads\Midnight Hustle_ Focus & Fire.jpg" width="320" alt="Profile Banner"/>
 </p>
 
 <h1 align="center">🚀 Sourav Verma | Aspiring Software Engineer</h1>
