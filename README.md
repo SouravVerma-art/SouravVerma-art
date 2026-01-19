@@ -4,7 +4,7 @@
 🎓 B.Tech (ECE) Student at NIT Srinagar &nbsp;|&nbsp; 💻 Full-Stack & AI Enthusiast &nbsp;|&nbsp; 🎯 Future Software Engineer at Microsoft
 </p>
 
-<p align="center">
+<p align="center"> 
 <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c"> 
 <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript">
