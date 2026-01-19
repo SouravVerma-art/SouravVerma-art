@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c">
+<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c"> 
 <img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react">
