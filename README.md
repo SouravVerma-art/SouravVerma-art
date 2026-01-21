@@ -1,20 +1,49 @@
-<h1 align="center">🚀 Sourav Verma | Aspiring Software Engineer</h1>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="center">
-🎓 B.Tech (ECE) Student at NIT Srinagar &nbsp;|&nbsp; 💻 Full-Stack & AI Enthusiast &nbsp;|&nbsp; 🎯 Future Software Engineer at Microsoft
-</p>
+###
 
-<p align="center"> 
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c"> 
-<img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react">
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs">
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=nodedotjs">
-<img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-✨ Hi, I'm Sourav Verma — a highly motivated engineering student passionate about building scalable software, intelligent systems, and impactful digital products. I am currently working on AI-driven projects such as **Omnex (a Perplexity-style AI platform)** while strengthening my expertise in **React, Next.js, backend development, and data-driven problem solving**. I actively practice **Data Structures & Algorithms** to improve my logical thinking, coding efficiency, and interview readiness. I enjoy collaborating on **open-source projects** focused on web platforms, automation tools, developer productivity, and beginner-friendly communities, and I continuously seek mentorship and feedback to improve my engineering maturity, system design understanding, and production-level coding practices.  
+###
 
-🌱 My learning journey includes mastering **C++, Git & GitHub workflows, ethical hacking fundamentals, Linux environments, database systems, and modern frontend frameworks**, along with sharpening my **English communication and technical documentation skills**. I love exploring how software can solve real-world problems efficiently and securely. You can ask me about **C programming, JavaScript fundamentals, React concepts, API integration, Git collaboration, debugging strategies, and engineering study techniques**. ⚡ Fun fact: I believe in daily consistency — small improvements every day compound into massive growth, and my long-term vision is to become a world-class software engineer and contribute to impactful technology at Microsoft 🚀
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
