@@ -11,8 +11,8 @@
 
 🎓 &nbsp;B.Tech (ECE) student at **NIT Srinagar**.  
 💻 &nbsp;Full-Stack & AI enthusiast, aspiring **Software Engineer at Microsoft**.  
-📚 &nbsp;Actively strengthening **React, Next.js, Backend Development & DSA**.
-🚀 &nbsp;Currently building **RiskWise – an AI-powered platform for real-time risk intelligence and decision support**.
+📚 &nbsp;Actively strengthening **React, Next.js, Backend Development & DSA**.  
+🚀 &nbsp;Currently building **RiskWise – an AI-powered platform for real-time risk intelligence and decision support**.  
 🧠 &nbsp;Focused on writing clean, scalable, production-ready code.  
 🌱 &nbsp;Learning **C++, Git/GitHub workflows, Linux environments, Ethical Hacking basics, Databases, and Modern Frontend frameworks**.  
 🤝 &nbsp;Open to collaborating on **open-source projects, automation tools, and developer communities**.  
@@ -57,16 +57,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/SouravVerma-art">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SouravVerma-art&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/SouravVerma-art">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravVerma-art&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravVerma-art&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/SouravVerma-art"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
 
 ---
