@@ -1,8 +1,8 @@
 ![Sourav Verma Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=230&section=header&text=Sourav%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-<h2 align="left">Hey there! I'm Sourav Verma</h2>
-
+<h2 align="left">Hey there! I'm Sourav Verma</h2> 
+ 
  
 ### 👨🏻‍💻 &nbsp;About Me 
 
