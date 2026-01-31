@@ -4,7 +4,7 @@
 <h2 align="left">Hey there! I'm Sourav Verma</h2> 
  
  
-### 👨🏻‍💻 &nbsp;About Me 
+### 👨🏻‍💻 &nbsp;About Me  
 
 🎓 &nbsp;B.Tech (ECE) student at **NIT Srinagar**.   
 💻 &nbsp;Full-Stack & AI enthusiast, aspiring **Software Engineer at Microsoft**.  
