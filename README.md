@@ -12,7 +12,7 @@
 🚀 &nbsp;Currently building **RiskWise – an AI-powered platform for real-time risk intelligence and decision support**.  
 🧠 &nbsp;Focused on writing clean, scalable, production-ready code.  
 🌱 &nbsp;Learning **C++, Git/GitHub workflows, Linux environments, Ethical Hacking basics, Databases, and Modern Frontend frameworks**.  
-🤝 &nbsp;Open to collaborating on **open-source projects, automation tools, and developer communities**.  
+🤝 &nbsp;Open to collaborating on  **open-source projects, automation tools, and developer communities**.  
 🎯 &nbsp;Goal: Crack a Software Engineering role at **Microsoft**.  
 
 ---
