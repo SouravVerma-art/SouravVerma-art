@@ -6,7 +6,7 @@
    
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;B.Tech (ECE) student at **NIT Srinagar**.   
+🎓 &nbsp;B.Tech (ECE) student at **NIT Srinagar**.    
 💻 &nbsp;Full-Stack & AI enthusiast, aspiring **Software Engineer at Microsoft**.  
 📚 &nbsp;Actively strengthening **React, Next.js, Backend Development & DSA**.  
 🚀 &nbsp;Currently building **RiskWise – an AI-powered platform for real-time risk intelligence and decision support**.  
